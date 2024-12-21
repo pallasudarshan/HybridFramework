@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bece5a8-9982-40a2-b5d8-046426d9227d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/ImplementationClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/ImplementationClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/JavaUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/JavaUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/RetryAnalyerimpClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/RetryAnalyerimpClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/WebDriverUtility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_GenericUtility/WebDriverUtility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/AllPatientListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/AllPatientListPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/BedMasterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/BedMasterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/BedTransferConfirmationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/BedTransferConfirmationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/BedTransferRequestPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/BedTransferRequestPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/ClearanceScreenPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/ClearanceScreenPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/DoctorDeskPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/DoctorDeskPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/DoctorDesk_Ip_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/DoctorDesk_Ip_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/LogOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/LogOutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/NursingDeskPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/NursingDeskPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/NursingDesk_WardServicesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/NursingDesk_WardServicesPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/OPDRegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/OPDRegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/OTSchedulingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/OTSchedulingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/PAC_Anaesthesia_SchedulePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/PAC_Anaesthesia_SchedulePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/PacAnaesthesiaConfirmationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/PacAnaesthesiaConfirmationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/PatientAdmissionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/PatientAdmissionPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/SampleCollectionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/SampleCollectionPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/SearchPatientPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/SearchPatientPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/UserListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Dalvkot/Vims_ObjectRepositary/UserListPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/CommanData/Credentials.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/CommanData/Credentials.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/CommanData/TestData.xls" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/CommanData/TestData.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/ChandrakantaTest/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/ChandrakantaTest/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/IpPatientLabManagementFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/LabManagementTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/MinimizeLabTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/MinimizeLabTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/MinimizeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/TotalLabManagementFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/VeriftThtaUserShouldGetTheAllServicesInTheDoctorDeskOnceDoctorVerifucationDoneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/VerifyThatselectDoctorVerificationStatusAsRetestItShouldComeUndertheLabTrchnicianEntryListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/VerifyThtaSumOfTheAllServicesAmountShouldEqualsWithTotalAmountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/LabManagementTest/VerifyThtaSumOfTheAllServicesAmountShouldEqualsWithTotalAmountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/LoginPageTest/AdminLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/LoginPageTest/AdminLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/NursingManagementTest/BedConfirmation_1_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/NursingManagementTest/BedConfirmation_1_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/NursingManagementTest/BedConfirmation_2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/NursingManagementTest/BedConfirmation_2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/NursingManagementTest/BedTransferRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/NursingManagementTest/BedTransferRequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/NursingManagementTest/NursingDeskScripts_1_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/NursingManagementTest/NursingDeskScripts_1_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/OpeartionTheaterTest/OTserviceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/OpeartionTheaterTest/PacAnaesthesiaSchedule_1_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/OpeartionTheaterTest/PacAnaesthesiaSchedule_1_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/OpeartionTheaterTest/billing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/OpeartionTheaterTest/billing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/OpeartionTheaterTest/samplecollection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/AllPatientListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/AllPatientListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/DoctorDeskIpPatient_TestScriptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/DoctorDeskIpPatient_TestScriptTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/DoctorDeskOpdPattientScreenTestScripts_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/DoctorDeskOpdPattientScreenTestScripts_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/IpPatientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/IpPatientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/OpdRegistration_1_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/OpdRegistration_1_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/PatientAdmission_1_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/PatientAdmission_1_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/SearchPatient1_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/SearchPatient1_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/opdRegistartionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PatientManagementTest/opdRegistartionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreateOpd_With_DoctorDesk_With_IndentListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreateOpd_With_DoctorDesk_With_IndentListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreateOtherPatientSaleWithReturnOtherPatientSalesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreateOtherPatientSaleWithReturnOtherPatientSalesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatePharmacySalesType_OTHER_PATIENT_SALES_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatePharmacySalesType_OTHER_PATIENT_SALES_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/Create_APharmacySaleTypeAs_CustmerSale_With_CustomerSaleReturn_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/Create_APharmacySaleTypeAs_CustmerSale_With_CustomerSaleReturn_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleAs_OpSale_With_OpSalesReturnTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleAs_OpSale_With_OpSalesReturnTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleTypeAs_ManualSaleAndCheckInOtherPatinetListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleTypeAs_ManualSaleAndCheckInOtherPatinetListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleTypeAs_ManualSale_With_Return_Manual_PharmacySaleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleTypeAs_ManualSale_With_Return_Manual_PharmacySaleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleType_IP_ISSUE_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleType_IP_ISSUE_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleType_OP_SALES_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySaleType_OP_SALES_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySalesType_MANUAL_SALE_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/CreatedPharmacySalesType_MANUAL_SALE_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/DoctorDeskProjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/DoctorDeskProjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/FetchDataFromDataBasew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/FetchDataFromDataBasew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/PharmacyMinimizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/PharmacyMinimizedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/PharmacySaleTypeAs_ManualSale_With_SuspendBill_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/PharmacySaleTypeAs_ManualSale_With_SuspendBill_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/PharmacySalesOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/PharmacyTest/PharmacySalesOp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Vims/jyothi/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Vims/jyothi/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.Vims.NursingManagementTest.BedTransferRequest1_Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.Vims.NursingManagementTest.BedTransferRequest1_Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.Vims.PatientManagementTest.opdRegistartionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.Vims.PatientManagementTest.opdRegistartionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.Vims.Surya_MasterScreens_Test.otScedulingTestScript_Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.Vims.Surya_MasterScreens_Test.otScedulingTestScript_Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.Vims.jyothi.practice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.Vims.jyothi.practice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QrXvoosGv6jWe6wLfXMoLaZk6C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Dalvkot_Vims_Project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Dalvkot_Vims_Project" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DalvkotPharma" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bece5a8-9982-40a2-b5d8-046426d9227d" name="Changes" comment="" />
+      <created>1686112908375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686112908375</updated>
+    </task>
+    <servers />
+  </component>
+</project>
